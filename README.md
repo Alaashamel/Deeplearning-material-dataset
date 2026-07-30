@@ -3,8 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/Deeplearning-material-dataset)
 
 
-Deeplearning Material Dataset — a Code project by Alaashamel.
-
+A placeholder repository (README, LICENSE, and contributing guide only) — no source code or dataset has been added yet.
 ## ✨ Features
 
 - Built primarily with **Code**
